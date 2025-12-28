@@ -1,0 +1,7 @@
+{
+  "name": "Cronômetro Mágico",
+  "description": "Um cronômetro visual e lúdico para crianças de 1 a 2 anos, ajudando na transição de atividades com cores, animações e feedback sonoro.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
